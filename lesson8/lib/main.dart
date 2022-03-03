@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
       context: context, builder: (BuildContext context) {
       // return object of type Dialog
       return AlertDialog(
-        title: new Text("Hello"),
+        title: new Text("Hi"),
         content: new Text("Have a good day!"),
         actions: <Widget>[
           new FlatButton(
