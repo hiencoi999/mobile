@@ -17,3 +17,7 @@ lesson 13: animation
 ![image](https://user-images.githubusercontent.com/62642158/157184623-452adcf1-a8d6-4868-b0a0-bd6e682ad900.png)
 lesson 17: REST API
 ![image](https://user-images.githubusercontent.com/62642158/157793465-1c2a96bd-9e2d-4d71-a203-e098e515de01.png)
+lesson 19: Language
+![image](https://user-images.githubusercontent.com/62642158/157810130-baed049a-fdd8-45e1-aaa8-49b9da1c3f58.png)
+lesson 20: Testing
+![image](https://user-images.githubusercontent.com/62642158/157810978-21bd22d2-417f-4a0d-ac51-a8a7fc45f1d2.png)
