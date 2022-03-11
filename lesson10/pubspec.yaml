@@ -89,3 +89,4 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:
     - assets/iu.jpeg
+    - assets/1.gif

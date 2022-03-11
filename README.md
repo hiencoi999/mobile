@@ -13,3 +13,5 @@ lesson 11: scoped model
 lesson 12: navigator and routing
 ![image](https://user-images.githubusercontent.com/62642158/157181892-b85c74fd-9c3d-4c25-aa66-2342ad97a784.png)
 ![image](https://user-images.githubusercontent.com/62642158/157181933-8fcb0608-ce12-4e5a-8016-58d2df9ad66d.png)
+lesson 13: animation
+![image](https://user-images.githubusercontent.com/62642158/157184623-452adcf1-a8d6-4868-b0a0-bd6e682ad900.png)

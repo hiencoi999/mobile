@@ -52,7 +52,7 @@ class MyHomePage extends StatelessWidget {
                 name: "IU",
                 description: "IU 5",
                 price: 28,
-                image: "iu.jpeg"
+                image: "1.gif"
             ),
             ProductBox(
                 name: "IU",
